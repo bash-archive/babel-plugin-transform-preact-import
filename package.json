@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-preact-import",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Imports preact for files containing jsx",
   "main": "index.js",
   "module": "src/index.js",
