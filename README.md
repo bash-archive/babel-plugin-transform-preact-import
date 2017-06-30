@@ -1,5 +1,5 @@
 # babel-plugin-transform-preact-import  
-*BPTPI for short*  
+*BPTPI for short, pronounced Bipitipy*  
 
 [![Build Status](https://travis-ci.org/bash/babel-plugin-transform-preact-import.svg?branch=master)](https://travis-ci.org/bash/babel-plugin-transform-preact-import)
 
