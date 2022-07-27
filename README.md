@@ -1,7 +1,7 @@
 # babel-plugin-transform-preact-import  
 *BPTPI for short, pronounced Bipitipy*  
 
-[![Build Status](https://travis-ci.org/bash/babel-plugin-transform-preact-import.svg?branch=master)](https://travis-ci.org/bash/babel-plugin-transform-preact-import)
+[![Build and Test](https://github.com/bash/babel-plugin-transform-preact-import/actions/workflows/build.yml/badge.svg)](https://github.com/bash/babel-plugin-transform-preact-import/actions/workflows/build.yml)
 
 > This plugin adds `import { h } from 'preact'` to files containing JSX
 
