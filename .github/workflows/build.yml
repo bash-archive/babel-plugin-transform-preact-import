@@ -20,7 +20,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: yarn install
+        cache: 'yarn'
+    - run: yarn install --immutable
     - run: yarn run build
     - run: yarn run test
